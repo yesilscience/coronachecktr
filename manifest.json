@@ -1,6 +1,6 @@
 {
-    "name": "coronacheck",
-    "short_name": "coronacheck",
+    "name": "coronacheckmaster",
+    "short_name": "coronacheckmaster",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
